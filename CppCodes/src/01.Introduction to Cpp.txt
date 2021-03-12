@@ -1,0 +1,22 @@
+Objective :
+
+History of C++ :
+	-> Bjarne Stroustrup
+	-> 1979
+	-> AT & T's Bell Labs
+	-> C with classes
+	-> 1983 (C++)
+
+Facts :
+	-> First Object Oriented Language : Simula67
+	-> C++'s OOP aspect was inspired by a computer simulation language called Simula67
+	-> Java is written in C++
+	-> Major operating systems of modern times are written in C++
+	
+Features of C++ :
+	-> C++ is a middle level language
+	-> C++ supports principles of Object Oriented paradigm
+	-> C++ joins three separate programming traditions :
+		- the 'procedural language' tradition, represented by C
+		- the 'object oriented' language tradition, represented by the class enhancements C++ adds to C
+		- the 'generic programming' supported by C++ templates 
